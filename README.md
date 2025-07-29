@@ -12,3 +12,7 @@ a corrente elétrica se distribui em um circuito e como a energia é dissipada.
 * ✅ Validação de entrada;
 * ✅ Calculo dos resistores, sentido da corrente e tempo;
 * ✅ Erros tratados com mensagens.
+
+# Tecnologia Usada
+* Java SE
+* Java Swing (Interface)
